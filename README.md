@@ -2,5 +2,5 @@
 
 This project has same functionality as <a href="https://github.com/rohitkbc/Money-Tracker-React">Money-Tracker-React</a>.              
 
-### 🔮 Future Scope:
-##### 🏗️ Add pop up notification after user add transaction or delete transaction
+### 🏗️ Future Scope:
+##### Add pop up notification after user add transaction or delete transaction
